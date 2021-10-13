@@ -17,6 +17,9 @@ conduct transformer-based experiments on an
 established benchmark in Relation Classification:
 the SemEVal2010 Task 8 dataset.
 
+For a complete project description, read <a href="https://github.com/gabrielebrunini/NLP-project/blob/main/Relation_Classification.pdf"></a>
+
+
 After training for 10 epochs:
 acc = 0.8653
 f1 = 0.8966g
