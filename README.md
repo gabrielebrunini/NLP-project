@@ -17,7 +17,7 @@ conduct transformer-based experiments on an
 established benchmark in Relation Classification:
 the SemEVal2010 Task 8 dataset.
 
-For a complete project description, read <a href="https://github.com/gabrielebrunini/NLP-project/blob/main/Relation_Classification.pdf"></a>
+For a complete project description, read the [Latex document]("https://github.com/gabrielebrunini/NLP-project/blob/main/Relation_Classification.pdf")
 
 
 After training for 10 epochs:
