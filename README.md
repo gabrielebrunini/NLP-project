@@ -1,4 +1,21 @@
-# relation_extraction_and_textual_entailment
+# Relation extraction and textual entailment
+In this course project, We propose to investigate
+the intersection of Natural Language Inference
+and Relation Classification. Relation
+Classification is the task of determining the
+relationship between two entities. It is considered
+one of the Natural Language Understanding
+building blocks and has critical applications,
+e.g., it is a sub-task of Relation
+Extraction and KB completion. We think
+about the task as a standard supervised learning
+task, which might have an interesting intersection
+with natural language inference. We
+could exploit this aspect to train better performing
+models – To investigate such, we
+conduct transformer-based experiments on an
+established benchmark in Relation Classification:
+the SemEVal2010 Task 8 dataset.
 
 ## login to leonhard
 
